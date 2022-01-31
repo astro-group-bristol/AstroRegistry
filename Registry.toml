@@ -3,3 +3,4 @@ uuid = "8b298450-6d11-4dee-beb0-0991d9ed6516"
 repo = "git@github.com:astro-group-bristol/AstroRegistry"
 
 [packages]
+1f539516-e6d2-4f24-ab09-50f3ac3c4a5a = { name = "GeodesicBase", path = "G/GeodesicBase" }

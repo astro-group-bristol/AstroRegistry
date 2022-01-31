@@ -1,3 +1,3 @@
 name = "GeodesicRendering"
 uuid = "dcac253f-9cde-4166-a841-20d11661ef48"
-repo = "git@github.com:astro-group-bristol/GeodesicRendering.jl"
+repo = "https://github.com/astro-group-bristol/GeodesicRendering.jl"

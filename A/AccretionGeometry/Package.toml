@@ -1,0 +1,3 @@
+name = "AccretionGeometry"
+uuid = "7f85384a-175b-40eb-971c-1f0b02ab1b9a"
+repo = "git@github.com:astro-group-bristol/AccretionGeometry.jl"

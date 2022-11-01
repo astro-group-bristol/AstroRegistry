@@ -1,0 +1,3 @@
+name = "Gradus"
+uuid = "c5b7b928-ea15-451c-ad6f-a331a0f3e4b7"
+repo = "git@github.com:astro-group-bristol/Gradus.jl"

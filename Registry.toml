@@ -3,3 +3,4 @@ uuid = "8b298450-6d11-4dee-beb0-0991d9ed6516"
 repo = "https://github.com/astro-group-bristol/AstroRegistry"
 
 [packages]
+c5b7b928-ea15-451c-ad6f-a331a0f3e4b7 = { name = "Gradus", path = "G/Gradus" }

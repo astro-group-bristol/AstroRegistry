@@ -1,0 +1,3 @@
+name = "SpectralFitting"
+uuid = "f2c56810-742e-4b72-8bf4-27af3bb81a12"
+repo = "https://github.com/fjebaker/SpectralFitting.jl"

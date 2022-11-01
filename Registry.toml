@@ -7,4 +7,5 @@ repo = "https://github.com/astro-group-bristol/AstroRegistry"
 50917eeb-3e3c-5f3a-99bd-93e1c30e1561 = { name = "LibXSPEC_jll", path = "L/LibXSPEC_jll" }
 9ec08b66-6ee8-447e-945d-4d196407106a = { name = "DiscJetConnections", path = "D/DiscJetConnections" }
 c5b7b928-ea15-451c-ad6f-a331a0f3e4b7 = { name = "Gradus", path = "G/Gradus" }
+e31488d4-824c-5b79-8647-ca95fa605810 = { name = "LibXSPEC_Relline_jll", path = "L/LibXSPEC_Relline_jll" }
 f2c56810-742e-4b72-8bf4-27af3bb81a12 = { name = "SpectralFitting", path = "S/SpectralFitting" }

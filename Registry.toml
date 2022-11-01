@@ -4,4 +4,5 @@ repo = "https://github.com/astro-group-bristol/AstroRegistry"
 
 [packages]
 3235f445-51d8-4100-901d-5b23398ac3ab = { name = "Buckets", path = "B/Buckets" }
+50917eeb-3e3c-5f3a-99bd-93e1c30e1561 = { name = "LibXSPEC_jll", path = "L/LibXSPEC_jll" }
 c5b7b928-ea15-451c-ad6f-a331a0f3e4b7 = { name = "Gradus", path = "G/Gradus" }

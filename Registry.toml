@@ -5,6 +5,7 @@ repo = "https://github.com/astro-group-bristol/AstroRegistry"
 [packages]
 3235f445-51d8-4100-901d-5b23398ac3ab = { name = "Buckets", path = "B/Buckets" }
 50917eeb-3e3c-5f3a-99bd-93e1c30e1561 = { name = "LibXSPEC_jll", path = "L/LibXSPEC_jll" }
+9d8a8cd6-ebce-5563-9f40-1010273145d0 = { name = "LibXSPEC_KYNReverb_jll", path = "L/LibXSPEC_KYNReverb_jll" }
 9ec08b66-6ee8-447e-945d-4d196407106a = { name = "DiscJetConnections", path = "D/DiscJetConnections" }
 c5b7b928-ea15-451c-ad6f-a331a0f3e4b7 = { name = "Gradus", path = "G/Gradus" }
 e31488d4-824c-5b79-8647-ca95fa605810 = { name = "LibXSPEC_Relline_jll", path = "L/LibXSPEC_Relline_jll" }

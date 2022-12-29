@@ -1,0 +1,4 @@
+name = "Relline"
+uuid = "bed4937e-0794-4811-9838-4ee3843e38e8"
+repo = "https://github.com/astro-group-bristol/SpectralFittingExtras.jl"
+subdir = "Relline"

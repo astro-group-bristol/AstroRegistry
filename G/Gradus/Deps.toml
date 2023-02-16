@@ -27,5 +27,5 @@ Surrogates = "6fc51010-71bc-11e9-0e15-a3fcc6593c49"
 ["0-0.2.1"]
 ThreadsX = "ac1d9e8a-700a-412c-b207-f0111f4b6c0d"
 
-["0.2.2-0"]
+["0.2.2-0.2.4"]
 Transducers = "28d57a85-8fef-5791-bfe6-a80928e7c999"

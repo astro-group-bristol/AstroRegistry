@@ -1,0 +1,3 @@
+name = "SyncSCCModel"
+uuid = "9ec08b66-6ee8-447e-945d-4d196407106a"
+repo = "https://github.com/astro-group-bristol/SyncSSCModel.jl"

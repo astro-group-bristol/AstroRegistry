@@ -6,7 +6,6 @@ repo = "https://github.com/astro-group-bristol/AstroRegistry"
 3235f445-51d8-4100-901d-5b23398ac3ab = { name = "Buckets", path = "B/Buckets" }
 50917eeb-3e3c-5f3a-99bd-93e1c30e1561 = { name = "LibXSPEC_jll", path = "L/LibXSPEC_jll" }
 9d8a8cd6-ebce-5563-9f40-1010273145d0 = { name = "LibXSPEC_KYNReverb_jll", path = "L/LibXSPEC_KYNReverb_jll" }
-9ec08b66-6ee8-447e-945d-4d196407106a = { name = "SyncSCCModel", path = "S/SyncSCCModel" }
 bed4937e-0794-4811-9838-4ee3843e38e8 = { name = "Relline", path = "R/Relline" }
 c5b7b928-ea15-451c-ad6f-a331a0f3e4b7 = { name = "Gradus", path = "G/Gradus" }
 cd802551-f261-4f1c-9355-f20acdba8541 = { name = "KYNReverb", path = "K/KYNReverb" }

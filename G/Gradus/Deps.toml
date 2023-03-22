@@ -29,3 +29,6 @@ ThreadsX = "ac1d9e8a-700a-412c-b207-f0111f4b6c0d"
 
 ["0.2.2-0.2.4"]
 Transducers = "28d57a85-8fef-5791-bfe6-a80928e7c999"
+
+["0.3.2-0"]
+RecipesBase = "3cdcf5f2-1ef4-517c-9805-6587b60abb01"

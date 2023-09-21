@@ -1,0 +1,4 @@
+name = "Warmabs"
+uuid = "1293a30c-8ee5-487f-8299-33928d5cda09"
+repo = "https://github.com/astro-group-bristol/SpectralFittingExtras.jl"
+subdir = "Warmabs"

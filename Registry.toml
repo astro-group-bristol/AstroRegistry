@@ -3,6 +3,7 @@ uuid = "8b298450-6d11-4dee-beb0-0991d9ed6516"
 repo = "https://github.com/astro-group-bristol/AstroRegistry"
 
 [packages]
+0bd1f26a-7f13-41ad-b364-0116c59c8ea1 = { name = "GradusSpectralModels", path = "G/GradusSpectralModels" }
 1293a30c-8ee5-487f-8299-33928d5cda09 = { name = "Warmabs", path = "W/Warmabs" }
 3235f445-51d8-4100-901d-5b23398ac3ab = { name = "Buckets", path = "B/Buckets" }
 50917eeb-3e3c-5f3a-99bd-93e1c30e1561 = { name = "LibXSPEC_jll", path = "L/LibXSPEC_jll" }

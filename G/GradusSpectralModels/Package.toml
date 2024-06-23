@@ -1,0 +1,4 @@
+name = "GradusSpectralModels"
+uuid = "0bd1f26a-7f13-41ad-b364-0116c59c8ea1"
+repo = "https://github.com/astro-group-bristol/Gradus.jl"
+subdir = "lib/GradusSpectralModels"

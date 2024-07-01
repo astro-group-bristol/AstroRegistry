@@ -44,5 +44,8 @@ FFTW = "7a1cc6ca-52ef-59f5-83cd-3a7055c09341"
 ["0.4.20-0"]
 SimpleNonlinearSolve = "727e6d20-b764-4bd8-a329-72de5adea6c7"
 
+["0.4.24-0"]
+MultiLinearInterpolations = "71cc9eaa-fb72-4ea8-a7f0-cc62a524c454"
+
 ["0.4.4-0"]
 Symbolics = "0c5d862f-8b57-4792-8d23-62f2024744c7"

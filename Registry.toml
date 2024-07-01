@@ -15,6 +15,7 @@ b6389841-9bc2-481d-a2e0-8b38b8d5f21d = { name = "Relxill", path = "R/Relxill" }
 bed4937e-0794-4811-9838-4ee3843e38e8 = { name = "Relline", path = "R/Relline" }
 c5b7b928-ea15-451c-ad6f-a331a0f3e4b7 = { name = "Gradus", path = "G/Gradus" }
 cad11c8d-934b-5dad-a678-9ee9e5e00166 = { name = "LibXSPEC_Warmabs_jll", path = "jll/L/LibXSPEC_Warmabs_jll" }
+cc3c03b4-7baa-4ee6-8208-c857e975bd70 = { name = "Reflionx", path = "R/Reflionx" }
 cd802551-f261-4f1c-9355-f20acdba8541 = { name = "KYNReverb", path = "K/KYNReverb" }
 e31488d4-824c-5b79-8647-ca95fa605810 = { name = "LibXSPEC_Relline_jll", path = "L/LibXSPEC_Relline_jll" }
 e5636fd8-dfb6-572c-a65b-f91a4431b0da = { name = "LibXSPEC_Relxill_jll", path = "jll/L/LibXSPEC_Relxill_jll" }

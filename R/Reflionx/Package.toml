@@ -1,0 +1,4 @@
+name = "Reflionx"
+uuid = "cc3c03b4-7baa-4ee6-8208-c857e975bd70"
+repo = "https://github.com/astro-group-bristol/SpectralFittingExtras.jl"
+subdir = "Reflionx"

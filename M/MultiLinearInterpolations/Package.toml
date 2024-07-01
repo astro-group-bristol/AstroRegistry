@@ -1,0 +1,3 @@
+name = "MultiLinearInterpolations"
+uuid = "71cc9eaa-fb72-4ea8-a7f0-cc62a524c454"
+repo = "https://github.com/fjebaker/MultiLinearInterpolations.jl"

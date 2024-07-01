@@ -8,6 +8,7 @@ repo = "https://github.com/astro-group-bristol/AstroRegistry"
 3235f445-51d8-4100-901d-5b23398ac3ab = { name = "Buckets", path = "B/Buckets" }
 50917eeb-3e3c-5f3a-99bd-93e1c30e1561 = { name = "LibXSPEC_jll", path = "L/LibXSPEC_jll" }
 6dbec4dd-1c77-466f-be49-4bb8b7bc4e69 = { name = "IyerHansen2009", path = "I/IyerHansen2009" }
+71cc9eaa-fb72-4ea8-a7f0-cc62a524c454 = { name = "MultiLinearInterpolations", path = "M/MultiLinearInterpolations" }
 9d8a8cd6-ebce-5563-9f40-1010273145d0 = { name = "LibXSPEC_KYNReverb_jll", path = "L/LibXSPEC_KYNReverb_jll" }
 9ec08b66-6ee8-447e-945d-4d196407106a = { name = "SyncSSCModel", path = "S/SyncSSCModel" }
 b6389841-9bc2-481d-a2e0-8b38b8d5f21d = { name = "Relxill", path = "R/Relxill" }

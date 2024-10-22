@@ -1,3 +1,6 @@
 [0]
 DocStringExtensions = "0.9.3 - 0.9"
 LibXSPEC_jll = "0.1.15 - 0.1"
+
+["0.1.1 - 0"]
+SpectralFitting = "0.6"

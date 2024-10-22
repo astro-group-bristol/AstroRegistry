@@ -7,7 +7,6 @@ FITSIO = "525bcba6-941b-5504-bd06-fd0dc1a4d2eb"
 FileIO = "5789e2e9-d7fb-5bc7-8068-2c6fae9b9549"
 Interpolations = "a98d9a8b-a2ab-59e6-89dd-64a1c18fca59"
 JLD2 = "033835bb-8acc-5ee8-8aae-3f567f8a3819"
-LibXSPEC_jll = "50917eeb-3e3c-5f3a-99bd-93e1c30e1561"
 LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
 Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
@@ -19,34 +18,37 @@ Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
 Surrogates = "6fc51010-71bc-11e9-0e15-a3fcc6593c49"
 Unitful = "1986cc42-f94f-5a68-af5c-568840ba703d"
 
-["0-0.3.3"]
+["0 - 0.3.3"]
 Parameters = "d96e819e-fc66-5662-9728-84c9c7592b0a"
 
-["0.3-0"]
+["0 - 0.5"]
+LibXSPEC_jll = "50917eeb-3e3c-5f3a-99bd-93e1c30e1561"
+
+["0.3 - 0"]
 ConstructionBase = "187b0558-2788-49d3-abe0-74a17ed4e7c9"
 
 ["0.3.5"]
 OptimizationOptimJL = "36348300-93cb-4f02-beb5-3c3902f8871e"
 
-["0.3.5-0"]
+["0.3.5 - 0"]
 LsqFit = "2fda8390-95c7-5789-9bda-21331edee243"
 Optimization = "7f7a1694-90dd-40f0-9382-eb1efda571ba"
 
-["0.3.9-0"]
+["0.3.9 - 0"]
 ForwardDiff = "f6369f11-7733-5829-9624-2563aa707210"
 
-["0.4-0"]
+["0.4 - 0"]
 EnumX = "4e289a0a-7415-4d19-859d-a7e5c4648b56"
 
-["0.5-0"]
+["0.5 - 0"]
 DataInterpolations = "82cc6244-b520-54b8-b5a6-8a565e85f1d0"
 PreallocationTools = "d236fae5-4411-538c-8e31-a6e3d9e00b46"
 
-["0.5.1-0"]
+["0.5.1 - 0"]
 Libz = "2ec943e9-cfe8-584d-b93d-64dcb6d567b7"
 
-["0.5.12-0"]
+["0.5.12 - 0"]
 MultiLinearInterpolations = "71cc9eaa-fb72-4ea8-a7f0-cc62a524c454"
 
-["0.5.8-0"]
+["0.5.8 - 0"]
 Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"

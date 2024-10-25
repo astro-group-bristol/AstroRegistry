@@ -47,7 +47,7 @@ PreallocationTools = "d236fae5-4411-538c-8e31-a6e3d9e00b46"
 ["0.5.1 - 0"]
 Libz = "2ec943e9-cfe8-584d-b93d-64dcb6d567b7"
 
-["0.5.12 - 0"]
+["0.5.12 - 0.6.0"]
 MultiLinearInterpolations = "71cc9eaa-fb72-4ea8-a7f0-cc62a524c454"
 
 ["0.5.8 - 0"]

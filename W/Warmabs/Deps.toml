@@ -2,6 +2,6 @@
 LibXSPEC_Warmabs_jll = "cad11c8d-934b-5dad-a678-9ee9e5e00166"
 SpectralFitting = "f2c56810-742e-4b72-8bf4-27af3bb81a12"
 
-["0.1.1-0"]
+["0.1.1 - 0"]
 LibXSPEC_jll = "50917eeb-3e3c-5f3a-99bd-93e1c30e1561"
 XSPECModels = "e051c099-9e89-4e1f-aad2-39a4611ecf4d"

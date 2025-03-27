@@ -1,6 +1,10 @@
-["0-0.1"]
+["0 - 0.1"]
 SpectralFitting = "0.3.0-*"
 
-["0.2-0"]
+["0.2 - 0.2.1"]
 SpectralFitting = "0.6.0-*"
 XSPECModels = "0.1.1-0.1"
+
+["0.2.2 - 0"]
+SpectralFitting = "0.6.0 - *"
+XSPECModels = "0.1.1 - 0.1"

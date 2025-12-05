@@ -1,4 +1,4 @@
 name = "XSPECModels"
 uuid = "e051c099-9e89-4e1f-aad2-39a4611ecf4d"
-repo = "https://github.com/fjebaker/SpectralFitting.jl"
+repo = "https://github.com/JuliaAstro/SpectralFitting.jl"
 subdir = "lib/XSPECModels"

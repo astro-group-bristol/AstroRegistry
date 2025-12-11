@@ -20,4 +20,5 @@ cd802551-f261-4f1c-9355-f20acdba8541 = { name = "KYNReverb", path = "K/KYNReverb
 e051c099-9e89-4e1f-aad2-39a4611ecf4d = { name = "XSPECModels", path = "X/XSPECModels" }
 e31488d4-824c-5b79-8647-ca95fa605810 = { name = "LibXSPEC_Relline_jll", path = "L/LibXSPEC_Relline_jll" }
 e5636fd8-dfb6-572c-a65b-f91a4431b0da = { name = "LibXSPEC_Relxill_jll", path = "jll/L/LibXSPEC_Relxill_jll" }
+e5a0302c-ffd9-5841-8a25-7e32320d4165 = { name = "LibXSPEC_Reltrans_jll", path = "jll/L/LibXSPEC_Reltrans_jll" }
 f2c56810-742e-4b72-8bf4-27af3bb81a12 = { name = "SpectralFitting", path = "S/SpectralFitting" }

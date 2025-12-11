@@ -1,0 +1,4 @@
+[0]
+LibXSPEC_jll = "6.35.1-6"
+SpectralFitting = "0.7.4-0.7"
+XSPECModels = "0.2.4-0.2"
